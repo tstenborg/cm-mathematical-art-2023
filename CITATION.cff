@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: Apollonian Sunset
+message: >-
+  If you use this artwork, please cite it using these metadata.
+type: dataset
+authors:
+  - given-names: Travis
+    family-names: Stenborg
+    orcid: 'https://orcid.org/0000-0002-2693-9628'
+url: 'https://github.com/tstenborg/cm-mathematical-art-2023'
+abstract: >-
+  Second place award-winning entry for the CARMA-MATRIX mathematical art 2023
+  competition. 'Apollonian Sunset' merges a fractal Apollonian gasket with a 
+  synthwave-styled sunset. The entry was computer-aided art, but not generative
+  AI art. It is available here in various file formats and sizes. Digital
+  display and physical printing are both supported.
+keywords:
+  - art
+  - mathematics
+  - synthwave
+license: CC-BY-SA-4.0
